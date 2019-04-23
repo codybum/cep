@@ -51,9 +51,6 @@ public class DataPlaneManager {
         myInodeId = plugin.getConfig().getStringParam("inode_id");
         myResourceId = plugin.getConfig().getStringParam("resource_id");
 
-
-
-
     }
 
     public boolean initQuery(String regionId, String agentId, String pluginId) {
