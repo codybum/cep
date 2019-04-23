@@ -24,9 +24,7 @@ public class Launcher {
 	
 	public static void main(String[] args) throws Exception 
 	{
-
 		//ep = new ESPEREngine();
-
         //ep.addEvent();
 
         String query = "select * from CarLocUpdateEvent";
